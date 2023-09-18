@@ -44,18 +44,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer"/>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
